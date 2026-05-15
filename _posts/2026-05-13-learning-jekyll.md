@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "learning_jekyll"
 date: 2026-05-13
 ---
 

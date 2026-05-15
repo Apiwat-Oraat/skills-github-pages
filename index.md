@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: "Welcome to my blog!"
 description: "A personal blog about programming, learning, and projects."
 ---
